@@ -19,16 +19,22 @@ src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdb
 - 📫 Reach me at **adityakumarsah4555@gmail.com**
 
 ###
-<table align="center">
+<!-- <table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityaX11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=adityaX11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+        alt="Aditya's GitHub Stats"
+      />
     </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adityaX11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaX11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+        alt="Top Languages"
+      />
     </td>
   </tr>
-</table>
+</table> -->
 
 ###
 
